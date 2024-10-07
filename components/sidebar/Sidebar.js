@@ -62,7 +62,7 @@ const menuGroups = [
         label: "Join Request",
         route: "#",
         children: [
-          { label: "Consumer", route: "/consumer/join" },
+          { label: "Consumer", route: "/join" },
           { label: "Enterprise", route: "/enterprise/join/" },
           { label: "Deliver Boy", route: "/deliveryboy/join" },
         ],
