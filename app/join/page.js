@@ -13,6 +13,7 @@ export default function Home() {
 
         <div className="flex flex-col gap-10">
           <JoinRequestTable/>
+          <h1>hgsdfgsdhfgsdhg</h1>
         </div>
       </Layout>
     </>
