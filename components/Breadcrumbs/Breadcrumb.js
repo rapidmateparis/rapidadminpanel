@@ -3,7 +3,7 @@ import Link from "next/link";
 const Breadcrumb = ({ pageName }) => {
   return (
     <div className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
-      <h2 className="text-sm font-semibold text-black dark:text-white">
+      <h2 className="text-xl font-bold text-black dark:text-white">
         {pageName}
       </h2>
 
